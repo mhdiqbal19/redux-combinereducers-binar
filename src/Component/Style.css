@@ -1,0 +1,9 @@
+.navbar{
+    background-color: red;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.img-navbar{
+    width: 100px;
+}
